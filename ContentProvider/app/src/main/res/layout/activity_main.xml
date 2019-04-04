@@ -19,7 +19,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Tutorials point "
+        android:text="PRACTICE SET "
         android:textColor="#ff87ff09"
         android:textSize="30dp"
         android:layout_below="@+id/textView1"
